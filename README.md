@@ -48,5 +48,10 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
 ## Demo of the App
 https://github.com/user-attachments/assets/fb85c213-24e7-4746-ab57-98b8d6b107b4
+
+## Figma Design Link
+https://www.figma.com/design/HkDrWpfO1Y1ghdJu1hqpGW/3D-Food-App?node-id=0-1&t=ZTFBwfkMNKuCAFKM-1
+
